@@ -1,9 +1,5 @@
 # Getting Started
-
-# Tasks :
-1. [Нужно выбрать систему для кеша](https://blog.frankel.ch/choose-cache/2/)
-2. [Настроить docker-composer](https://docs.spring.io/spring-boot/docs/3.1.5/reference/htmlsingle/index.html#features.docker-compose)
-
+### [BOARD](https://miro.com/app/board/uXjVNVT8mZc=/)
 ### Reference Documentation
 
 For further reference, please consider the following sections:
